@@ -20,12 +20,10 @@
     $name = 4.6592;
 
     //Boolean
-    true = 3
-    false = 4
 
     //Array
     $names = array("Chance","Jossemar","Josiah");
-    echo $names['2'];
+    echo $names['0'];
        
  ?>
   </body>
