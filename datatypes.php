@@ -23,7 +23,7 @@
 
     //Array
     $names = array("Chance","Jossemar","Josiah");
-    echo $names['0'];
+    echo $names['2'];
        
  ?>
   </body>
