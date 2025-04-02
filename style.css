@@ -1,0 +1,84 @@
+/* General body styling */
+body {
+    background-color: #000; /* Black background */
+    color: #fff; /* White text */
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Navbar styling */
+  .navbar {
+    background-color: #111; /* Dark gray for navbar */
+    border-bottom: 1px solid #333; /* Subtle border */
+  }
+  
+  .navbar-brand, .nav-link {
+    color: #fff !important; /* White text for links */
+  }
+  
+  .nav-link:hover {
+    color: #ccc !important; /* Light gray on hover */
+  }
+  
+  .navbar-toggler {
+    border-color: #fff; /* White border for toggler */
+  }
+  
+  .navbar-toggler-icon {
+    background-color: #fff; /* White toggler icon */
+  }
+  
+  /* Form styling */
+  form input, form button {
+    background-color: #222; /* Dark gray background */
+    color: #fff; /* White text */
+    border: 1px solid #444; /* Subtle border */
+  }
+  
+  form input::placeholder {
+    color: #aaa; /* Light gray placeholder text */
+  }
+  
+  form button {
+    background-color: #444; /* Slightly lighter gray for buttons */
+  }
+  
+  form button:hover {
+    background-color: #555; /* Even lighter gray on hover */
+  }
+  
+  /* Table styling (if applicable) */
+  table {
+    background-color: #111; /* Dark gray table background */
+    color: #fff; /* White text */
+    border: 1px solid #333; /* Subtle border */
+  }
+  
+  th, td {
+    border: 1px solid #444; /* Subtle cell borders */
+    padding: 10px;
+  }
+  
+  th {
+    background-color: #222; /* Slightly lighter header row */
+  }
+  
+  /* Links */
+  a {
+    color: #fff; /* White links */
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: #ccc; /* Light gray on hover */
+  }
+  
+  /* Buttons */
+  .btn {
+    background-color: #333; /* Dark gray buttons */
+    color: #fff; /* White text */
+    border: none;
+  }
+  
+  .btn:hover {
+    background-color: #555; /* Lighter gray on hover */
+  }

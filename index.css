@@ -1,0 +1,87 @@
+/* General body styling */
+body {
+    background-color: #000; /* Black background */
+    color: #add8e6; /* Light blue text */
+    font-family: Arial, sans-serif;
+  }
+  
+  * Navbar styling */
+  .navbar {
+    background-color: #fcfbfb !important; /* Black background for navbar */
+    border-bottom: 1px solid #f0ecec; /* Subtle border */
+  }
+
+
+.navbar-brand, .nav-link {
+  color: #04b9f0 !important; /* Light blue text for links */
+}
+
+.nav-link:hover {
+  color: #87ceeb !important; /* Brighter light blue on hover */
+}
+
+.navbar-toggler {
+  border-color: #add8e6; /* Light blue border for toggler */
+}
+
+.navbar-toggler-icon {
+  background-color: #54bfe2; /* Light blue toggler icon */
+}
+  
+  /* Form styling */
+  form input, form button {
+    background-color: #0e0d0d; /* Dark gray background */
+    color: #add8e6; /* Light blue text */
+    border: 1px solid #444; /* Subtle border */
+  }
+  
+  form input::placeholder {
+    color: #87ceeb; /* Brighter light blue placeholder text */
+  }
+  
+  form button {
+    background-color: #444; /* Slightly lighter gray for buttons */
+  }
+  
+  form button:hover {
+    background-color: #555; /* Even lighter gray on hover */
+    color: #add8e6; /* Light blue text */
+  }
+  
+  /* Table styling (if applicable) */
+  table {
+    background-color: #111; /* Dark gray table background */
+    color: #add8e6; /* Light blue text */
+    border: 1px solid #333; /* Subtle border */
+  }
+  
+  th, td {
+    border: 1px solid #444; /* Subtle cell borders */
+    padding: 10px;
+  }
+  
+  th {
+    background-color: #222; /* Slightly lighter header row */
+  }
+  
+  /* Links */
+  a {
+    color: #add8e6; /* Light blue links */
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: #87ceeb; /* Brighter light blue on hover */
+  }
+  
+  /* Buttons */
+  .btn {
+    background-color: #333; /* Dark gray buttons */
+    color: #add8e6; /* Light blue text */
+    border: none;
+  }
+  
+  .btn:hover {
+    background-color: #555; /* Lighter gray on hover */
+    color: #add8e6; /* Light blue text */
+  }
