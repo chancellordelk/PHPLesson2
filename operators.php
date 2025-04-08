@@ -29,6 +29,12 @@
             <li class="nav-item">
               <a class="nav-link active" aria-current="page" href="operators.php">Operators</a>
             </li>
+            <li class="nav-item">
+              <a class="nav-link" href="calculator.php">Calculator</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="display.php">Day Display</a>
+            </li>
           </ul>
         </div>
       </div>
